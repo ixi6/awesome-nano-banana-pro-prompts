@@ -1,5 +1,5 @@
 
-> 💡 ⚡ Nano Banana 2 vs Pro : 100 prompts viraux 𝕏 testés côte à côte. Vitesse Flash, à moitié prix — la plupart n'ont pas besoin de Pro 👉 [Voir les résultats](https://youmind.com/fr-FR/model-arena/nano-banana-2-vs-nano-banana-pro)
+> 💡 🎬 Découvrez notre collection de prompts Seedance 2.0 — prompts vidéo viraux de 𝕏, mis à jour quotidiennement 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
 # 🚀 Prompts Nano Banana Pro Géniaux
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +137,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **10632** |
 | ⭐ En vedette | **9** |
-| 🔄 Dernière mise à jour | **vendredi 6 mars 2026 à 05:04:57 UTC** |
+| 🔄 Dernière mise à jour | **vendredi 6 mars 2026 à 05:32:59 UTC** |
 
 </div>
 
@@ -7320,6 +7320,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-03-06T05:04:57.581Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-03-06T05:32:59.532Z</sub>
 
 </div>

@@ -1,5 +1,5 @@
 
-> 💡 ⚡ Nano Banana 2 vs Pro: 100 prompt ฮิตบน 𝕏 ทดสอบเคียงข้างกัน. ความเร็ว Flash, ราคาครึ่งหนึ่ง — ส่วนใหญ่ไม่ต้องใช้ Pro 👉 [ดูผลลัพธ์](https://youmind.com/th-TH/model-arena/nano-banana-2-vs-nano-banana-pro)
+> 💡 🎬 ดูคอลเลกชัน prompt Seedance 2.0 ของเรา — prompt วิดีโอไวรัลจาก 𝕏 อัปเดตรายวัน 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
 # 🚀 สุดยอด Nano Banana Pro Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +137,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 คำสั่งทั้งหมด | **10632** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันศุกร์ที่ 6 มีนาคม พ.ศ. 2569 เวลา 5 นาฬิกา 04 นาที 35 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันศุกร์ที่ 6 มีนาคม พ.ศ. 2569 เวลา 5 นาฬิกา 32 นาที 39 วินาที UTC** |
 
 </div>
 
@@ -7278,6 +7278,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-03-06T05:04:35.220Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-03-06T05:32:39.422Z</sub>
 
 </div>
