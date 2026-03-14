@@ -137,7 +137,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示词总数 | **11304** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年3月14日星期六 UTC 16:18:16** |
+| 🔄 最后更新 | **2026年3月14日星期六 UTC 20:15:24** |
 
 </div>
 
@@ -7308,6 +7308,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-03-14T16:18:16.947Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-03-14T20:15:24.250Z</sub>
 
 </div>
